@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="textview">Tridev Mishra</string>
+    <string name="tridev_mishra2">Tridev Mishra</string>
+    <string name="tridev_mishra">Tridev Mishra</string>
+    <string name="idphoto">idphoto</string>
+    <string name="myphoto">myphoto</string>
+    <string name="student_at_ggsipu">Student at GGSIPU</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="myqr">myQR</string>
+    <string name="_03_nov_1995">03 Nov 1995</string>
+    <string name="dob_03_nov_1995">DOB :03 Nov 1995</string>
+    <string name="_919560447160">+919560447160</string>
+    <string name="contact_919560447160">Contact: +919560447160</string>
+    <string name="mail_tga_live_in">Mail:tga@live.in</string>
+    <string name="please_rate_my_assignment">Please rate my Assignment</string>
+    <string name="mail_tga_live_in2">Mail: tga@live.in</string>
+    <string name="fblink">fblink</string>
+    <string name="scan_qr_code_for">Scan QR Code for</string>
+    <string name="mail_tga_live_inh">Mail: tga@live.in</string>
+    <string name="mail_tga_live_in_2">Mail: tga@live.in</string>
+    <string name="delhi_india_2">Delhi, India.</string>
+    <string name="details">Details</string>
+</resources>
